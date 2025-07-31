@@ -54,6 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalM01&layout=compact&theme=radical" alt="top langs" />
 </p>
 
+
 ---
 
 ### 🔗 Connect with Me
@@ -68,7 +69,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalM01&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=PrajwalM01&theme=tokyonight" alt="streak stats" />
 </p>
 
 
