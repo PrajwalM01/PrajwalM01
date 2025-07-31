@@ -69,7 +69,8 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrajwalM01&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=PrajwalM01&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
