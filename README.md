@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Amazon Web Service Cloud based Computation. 
 
 ## Tech Stack
-- **Languages**: C,C++,Python, Java
-- **Frameworks**: Flask,Sckit-learn,Seaborn,RandomForestClassifer,SVM,PCA,LDA
-- **Tools**: Git
-
-
+- **Languages**: C,C++,Python,Java
+- **Frameworks**: Flask,Scikit-learn,Seaborn,RandomForestClassifer,SVM,PCA,Mathplotlib
+- **Tools**: Git,VSCode
+- **SQL**: MYSQL 
+-**Cloud**: EC2 instance (AWS)
 
