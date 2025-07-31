@@ -6,6 +6,6 @@
 - **Languages**: C,C++,Python,Java
 - **Frameworks**: Flask,Scikit-learn,Seaborn,RandomForestClassifer,SVM,PCA,Mathplotlib
 - **Tools**: Git,VSCode
-- **SQL**: MYSQL 
--**Cloud**: EC2 instance (AWS)
+- **SQL**: MYSQL
+- **Cloud**: EC2 instance (AWS)
 
