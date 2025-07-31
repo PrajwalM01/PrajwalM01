@@ -59,8 +59,8 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:prajwal.yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prajwal-m-61948a319" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:prajwalm0105204mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
